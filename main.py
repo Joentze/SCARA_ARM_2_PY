@@ -3,7 +3,7 @@
 import math as m
 
 #other python modules
-from trigoCal import returnServoAngOneTwo as getAngles
+from trigo_calculation import returnServoAngOneTwo as getAngles
 
 
 if __name__ == "__main__":
